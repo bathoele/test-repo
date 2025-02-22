@@ -1,3 +1,4 @@
 This is the original text.
 This is new text.
 This is branch text.
+This is NEW branch text.
